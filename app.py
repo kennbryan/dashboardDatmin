@@ -10,8 +10,6 @@ from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats
-import plotly.express as px
-import plotly.graph_objects as go
 
 # Load dataset
 @st.cache_data
